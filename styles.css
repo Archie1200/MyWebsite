@@ -31,7 +31,7 @@ body{
     margin-left: 120px;
 }
 .content{
-    width: 70%;
+    width: 74%;
     height: 100%;
     display: flex;
     justify-content: center;
@@ -73,7 +73,7 @@ body{
 .box{
     margin-top: 10px;
     width: 30%;
-    height: 200px;
+    height: 250px;
     margin-left: 5px;
     margin-right: 5px;
     padding: 5px;
